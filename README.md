@@ -2,7 +2,7 @@
 
 ## I'm an electrical engineer turned data scientist looking for a new job opportunity 
 
-- 💻 I’m currently working as a Data Science projects
+- 💻 I’m currently working as a Data Science projectist
 - 📈 I’m constantly learning and Improving my skills 🤣
 - 📊 I’m looking to collaborate with other Data Scientists and developers 
 
